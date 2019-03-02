@@ -7,4 +7,3 @@
 6. null
 7. BTEU, 1st and 2nd courses
 8. B1
-<3
