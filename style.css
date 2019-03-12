@@ -3,7 +3,7 @@
     padding:0; 
     } 
  body{ 
-        text-align:center; /*For IE6 Shenanigans*/ 
+        text-align:center; 
      } 
 
 
@@ -17,7 +17,7 @@
         font-family: 'Courier New', Courier, monospace;
         font-size: 20pt;
         text-align: center;
-        color: aliceblue;
+        color: rgb(29, 107, 175);
      } 
      .fig{
          text-align: center;
