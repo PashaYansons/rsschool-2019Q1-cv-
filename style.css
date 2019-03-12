@@ -1,0 +1,32 @@
+*{ 
+    margin:0; 
+    padding:0; 
+    } 
+ body{ 
+        text-align:center; /*For IE6 Shenanigans*/ 
+     } 
+
+
+     #wrapper{ 
+         background: #232232;
+         height: 800px;
+        width:960px; 
+        margin:0 auto; 
+        text-align:left; text-align: center;
+        text-decoration: aliceblue;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20pt;
+        text-align: center;
+        color: aliceblue;
+     } 
+     .fig{
+         text-align: center;
+         text-decoration: aliceblue;
+         font-family: 'Courier New', Courier, monospace;
+         font-size: 20pt;
+         text-align: center;
+        }
+        img{
+            width: 400px;
+            height: 500px;;
+        }
